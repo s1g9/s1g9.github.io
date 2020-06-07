@@ -13,12 +13,12 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "5a37ae808cf9f652198acde612b5328d",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "2bca5ec802e40d3f4b60343e346cedde",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "2aa350bd2aeab88b601a593f793734c0",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"favicon.png": "1fd5f7131830bfbfa4101e09cdc94fd2",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "6868cca96b221170d1ff59d3fb70c245",
 "/": "6868cca96b221170d1ff59d3fb70c245",
-"main.dart.js": "4437de54f8c63d60196c3a0e0dc582a1",
+"main.dart.js": "3572bdbfc5789c1f4ce24f55049dfa14",
 "manifest.json": "93465fa57d4535dc57f667f4eb1b9304"
 };
 
